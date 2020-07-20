@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "today",
+  "version": "1.0.0",
+  "description": "Simple Cloudflare Workers based site for testing the Intl API on different browsers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "James Culveyhouse <jculveyhouse@cloudflare.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
